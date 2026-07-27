@@ -40,4 +40,4 @@
 
 ### 🚀 Featured Projects
 - **[AegisAI](https://github.com/prakshaaljain/AegisAI-Autonomous-Production-Incident-Investigator)** — Autonomous production incident investigator built with LangGraph, FastAPI, Pydantic v2, and NetworkX
-- **AI-Powered Document Query System** — Semantic search over documents using BERT embeddings, FAISS, and Django REST (97% accuracy), built during a GenAI/NLP internship
+- **[AI-Powered Document Query System](https://github.com/prakshaaljain/Talk_Document)** — Semantic search over documents using BERT embeddings, FAISS, and Django REST (97% accuracy), built during a GenAI/NLP internship
