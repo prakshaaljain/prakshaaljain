@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Quant+Python+Developer+%40+Futures+First;Building+LangGraph+%2B+FastAPI+Agents;Trading+Systems+%7C+ML+Pipelines+%7C+Backtesting;Currently+shipping+AegisAI+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Quant+Python+Developer+%40+Futures+First;Building+LangGraph+%2B+FastAPI+Agents;Trading+Systems+%7C+ML+Pipelines+%7C+Backtesting;Currently+shipping+AegisAI+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=prakshaaljain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prakshaaljain&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=prakshaaljain&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
